@@ -7,6 +7,7 @@ tags:
   - 教程
 categories:
   - 技术
+cover: /images/posts/claude-code-cli/banner.webp
 ---
 
 > 基于 Claude Code v2.1.143+ (2026年5月)

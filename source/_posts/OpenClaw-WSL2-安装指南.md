@@ -7,6 +7,7 @@ tags:
   - 教程
 categories:
   - 技术
+cover: /images/posts/openclaw-wsl2/banner.webp
 ---
 
 > 本指南详细介绍在 Windows 10 上通过 WSL2 安装 OpenClaw 的完整步骤，包含国内镜像源配置、飞书接入和大模型配置。
